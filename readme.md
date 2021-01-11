@@ -96,4 +96,4 @@ Admin able to process all Serba Kelapa data, there are Invoice (Contain all Cust
 Hi there , i'm <a href="https://github.com/farrasmuttaqin/"> Muhammad Farras Muttaqin </a>
 
 ## License
-This project is open source and available under the <a href="https://github.com/farrasmuttaqin/asysyifa_care-website/blob/master/license.txt">MIT License</a>.
+This project is open source and available under the <a href="https://github.com/farrasmuttaqin/serbakelapa-website/blob/master/license.txt">MIT License</a>.
