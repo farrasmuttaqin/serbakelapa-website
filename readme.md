@@ -42,12 +42,12 @@ Event page used to tell Customer about several activities that will be held by S
 
 Serba Kelapa combine both Login or Register function in Credential Page.
 
-![All Products Page](https://github.com/farrasmuttaqin/asysyifa_care-website/blob/master/assets/img/screen-shoot/produckt.png)
+![All Products Page](https://raw.githubusercontent.com/farrasmuttaqin/serbakelapa-website/master/assets/img/screenshoot/produckt.png)
 <p align="center">Figure 5: All Products Page</p>
 
 All Products Page contain information about all Serba Kelapa Products.
 
-![Detail Product Page](https://github.com/farrasmuttaqin/asysyifa_care-website/blob/master/assets/img/screen-shoot/detail_product.png)
+![Detail Product Page](https://raw.githubusercontent.com/farrasmuttaqin/serbakelapa-website/master/assets/img/screenshoot/detail_product.png)
 <p align="center">Figure 6: Detail Product Page</p>
 
 Detail Product Page giving the detail of Product, there are Description, Reviews, Price, Stock and Information about Related Products.
@@ -77,18 +77,13 @@ Checkout page is a final part of purchasing product flow in Serba Kelapa. Custom
 
 Payment Verification Page sign the final of purchasing product flow in Serba Kelapa.
 
-![Final Checkout Page](https://raw.githubusercontent.com/farrasmuttaqin/serbakelapa-website/master/assets/img/screenshoot/final.png)
-<p align="center">Figure 12: Verified Page</p>
-
-Payment Verification Page sign the final of purchasing product flow in Serba Kelapa.
-
 ![Admin Login Page](https://raw.githubusercontent.com/farrasmuttaqin/serbakelapa-website/master/assets/img/screenshoot/admin_login.png)
-<p align="center">Figure 13: Admin Login Page</p>
+<p align="center">Figure 12: Admin Login Page</p>
 
 Admin Login Page is an interface for Serba Kelapa Admin gain access to processing all Serba Kelapa Data.
 
 ![Admin Home Page](https://raw.githubusercontent.com/farrasmuttaqin/serbakelapa-website/master/assets/img/screenshoot/admin_dash.png)
-<p align="center">Figure 14: Admin Dashboard Page</p>
+<p align="center">Figure 13: Admin Dashboard Page</p>
 
 Admin able to process all Serba Kelapa data, there are Invoice (Contain all Customer purchasing transactions) , Article & Events, Products, Reviews, Comment, Contact us and Users (Customer).
 
